@@ -1,0 +1,12 @@
+{
+    "target_directory": ".",
+    "archive_date_format": "%Y-%m-%d",
+    "rules": {
+        ".jpg": "Media/Images",
+        ".png": "Media/Images",
+        ".pdf": "Documents/PDF",
+        ".xlsx": "Documents/Excel",
+        ".pptx": "Documents/Presentation",
+        ".txt": "Documents/Text"
+    }
+}
